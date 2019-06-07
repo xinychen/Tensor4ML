@@ -13,10 +13,12 @@ Tutorials and Python codes for matrix/tensor factorization techniques.
 
 - [Part 2: Matrix Factorization Techniques](xx)
 
-- [Part 3: Matrix Completion Technqiues](xx)
+- [Part 3: Matrix Completion Techniques](xx)
 
 - [Part 3: Tensor Factorization Techniques](xx)
   - [Chapter 1: Tensor Factorization with Alternative Least Square (ALS)](xx)
 
 - [Part 4: Low-Rank Tensor Completion Techniques](xx)
+
+- [Part 5: Multi-dimensional Tensor Regression](xx)
 ---
