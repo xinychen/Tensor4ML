@@ -21,4 +21,14 @@ Contents
 - [Part 4: Low-Rank Tensor Completion Techniques](xx) [coming soon!]
 
 - [Part 5: Multi-dimensional Tensor Regression](xx) [coming soon!]
+
+Quick Run
 ---
+
+- If you just want to read the tutorial, please follow the link of above contents directly.
+
+- If you want to run the code, please
+
+  - download (or clone) this repository,
+  - open the `.ipynb` files using [Jupyter notebook](https://jupyter.org/install.html),
+  - and run the code.
