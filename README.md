@@ -18,6 +18,8 @@ Contents
 - [Part 3: Tensor Factorization Techniques](xx) [**updating currently!**]
   - [Chapter 1: Tensor Factorization with Alternative Least Square (ALS)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-01.ipynb)
 
+  - [Chapter 2: Bayesian Gaussian Tensor Factorization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-02.ipynb)
+
 - [Part 4: Low-Rank Tensor Completion Techniques](xx) [coming soon!]
 
 - [Part 5: Multi-dimensional Tensor Regression](xx) [coming soon!]
