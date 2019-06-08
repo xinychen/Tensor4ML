@@ -30,5 +30,5 @@ Quick Run
 - If you want to run the code, please
 
   - download (or clone) this repository,
-  - open the `.ipynb` files using [Jupyter notebook](https://jupyter.org/install.html),
+  - open the `.ipynb` file using [Jupyter notebook](https://jupyter.org/install.html),
   - and run the code.
