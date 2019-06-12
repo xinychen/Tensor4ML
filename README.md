@@ -2,6 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
+[![GitHub stars](https://img.shields.io/github/stars/xinychen/tensor-learning.svg?logo=github&label=Stars&logoColor=white)](https://github.com/xinychen/tensor-learning)
 
 
 Tutorials and Python codes for tensor factorization/completion/regression techniques with an application of spatiotemporal data analysis.
