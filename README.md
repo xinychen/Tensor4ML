@@ -14,10 +14,10 @@ Contents
 
 - [Part 1: Foundations of Matrix and Tensor Computations](xx) [coming soon!]
 
-- [Part 2: Matrix Factorization and Completion Techniques](xx) [**updating currently!**]
+- [Part 2: Matrix Factorization and Completion Techniques](xx)
   - [Chapter 1: Low-Rank Matrix Completion](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-02/LRMC.ipynb)
 
-- [Part 3: Tensor Factorization Techniques](xx) [**updating currently!**]
+- [Part 3: Tensor Factorization Techniques](xx)
   - [Chapter 1: Tensor Factorization with Alternating Least Square (ALS)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-01.ipynb)
 
   - [Chapter 2: Nonnegative Tensor Factorization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-02.ipynb)
