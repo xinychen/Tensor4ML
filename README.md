@@ -5,17 +5,19 @@
 [![GitHub stars](https://img.shields.io/github/stars/xinychen/tensor-learning.svg?logo=github&label=Stars&logoColor=white)](https://github.com/xinychen/tensor-learning)
 
 
-Tutorials and Python codes for tensor factorization/completion/regression techniques with an application of spatiotemporal data analysis.
+Tutorials and Python codes for tensor factorization/completion/regression techniques with an application of multi-dimensional data analysis.
 
 In a hurry? Please check out our contents as follows.
 
 Contents
 ---
 
-- Part 1: Foundations of Matrix and Tensor Computations [coming soon!]
+- Part 1: Foundations [coming soon!]
 
 - Part 2: Matrix Factorization and Completion Techniques
-  - [Chapter 1: Low-Rank Matrix Completion](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-02/LRMC.ipynb)
+  - [Chapter 1: Low-Rank Matrix Completion](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/LRMC.ipynb)
+
+  - [Chapter 2: Bayesian Temporal Matrix Factorization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/BTMF.ipynb)
 
 - Part 3: Tensor Factorization Techniques
   - [Chapter 1: Tensor Factorization with Alternating Least Square (ALS)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-01.ipynb)
