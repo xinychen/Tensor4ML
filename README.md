@@ -5,7 +5,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/xinychen/tensor-learning.svg?logo=github&label=Stars&logoColor=white)](https://github.com/xinychen/tensor-learning)
 
 
-Tutorials and Python codes for tensor factorization/completion/regression techniques with an application of multi-dimensional data analysis.
+Tutorials and Python codes for tensor factorization/completion/regression techniques with practical applications:
+
+- Image inpainting
+- Recommender systems
 
 In a hurry? Please check out our contents as follows.
 
