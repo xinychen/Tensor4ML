@@ -18,16 +18,16 @@ Contents
 - Part 1: Foundations [coming soon!]
 
 - Part 2: Matrix Factorization and Completion Techniques
-  - [Chapter 1: Low-Rank Matrix Completion](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/LRMC.ipynb)
+  - [1. Low-Rank Matrix Completion](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/LRMC.ipynb)
 
-  - [Chapter 2: Bayesian Temporal Matrix Factorization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/BTMF.ipynb)
+  - [2. Bayesian Temporal Matrix Factorization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/BTMF.ipynb)
 
 - Part 3: Tensor Factorization Techniques
-  - [Chapter 1: Tensor Factorization with Alternating Least Square (ALS)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-01.ipynb)
+  - [1. Tensor Factorization with Alternating Least Square (ALS)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-01.ipynb)
 
-  - [Chapter 2: Nonnegative Tensor Factorization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-02.ipynb)
+  - [2. Nonnegative Tensor Factorization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-02.ipynb)
 
-  - [Chapter 3: Bayesian Gaussian Tensor Factorization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-03.ipynb)
+  - [3. Bayesian Gaussian Tensor Factorization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-03.ipynb)
 
 - Part 4: Low-Rank Tensor Completion Techniques [coming soon!]
 
