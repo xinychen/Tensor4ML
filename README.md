@@ -16,7 +16,8 @@ In a hurry? Please check out our contents as follows.
 Contents
 ---
 
-- Part 1: Foundations [coming soon!]
+- Part 1: Foundations
+  - [1. Proximal Methods](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/proximal.ipynb)
 
 - Part 2: Matrix Factorization and Completion Techniques
   - [1. Low-Rank Matrix Completion](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/LRMC.ipynb)
