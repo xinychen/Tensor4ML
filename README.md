@@ -8,6 +8,7 @@
 Tutorials and Python codes for tensor factorization/completion/regression techniques with practical applications:
 
 - Image inpainting
+- Spatiotemporal data imputation
 - Recommender systems
 
 In a hurry? Please check out our contents as follows.
