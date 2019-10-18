@@ -17,8 +17,8 @@ If you want to better understand Geometric Low-rank Tensor Completion (GLTC), th
   - Non-Convex Relaxations for Rank Regularization, (Slide) 2019. [[**PDF**](https://icerm.brown.edu/materials/Slides/sp-s19-w3/Non-Convex_Relaxations_for_Rank_Regularization_]_Carl_Olsson,_Chalmers_University_of_Technology_and_Lund_University.pdf)]
 
 - **Low-rank tensor completion**
-- Tensor Completion for Estimating Missing Values in Visual Data, IEEE TPAMI 2013. [[**PDF**](https://doi.org/10.1109/TPAMI.2012.39)]
+  - Tensor Completion for Estimating Missing Values in Visual Data, IEEE TPAMI 2013. [[**PDF**](https://doi.org/10.1109/TPAMI.2012.39)]
   
-- Efficient Nonconvex Regularized Tensor Completion with Structure-aware Proximal Iterations, ICML 2019. [[**PDF**](https://arxiv.org/pdf/1807.08725.pdf)] [[**Matlab code**](https://github.com/quanmingyao/FasTer)]
+  - Efficient Nonconvex Regularized Tensor Completion with Structure-aware Proximal Iterations, ICML 2019. [[**PDF**](https://arxiv.org/pdf/1807.08725.pdf)] [[**Matlab code**](https://github.com/quanmingyao/FasTer)]
   
 
