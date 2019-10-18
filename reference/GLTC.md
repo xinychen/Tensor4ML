@@ -2,7 +2,7 @@
 
 If you want to better understand Geometric Low-rank Tensor Completion (GLTC), the following references may be helpful.
 
---------------------------------
+------------------------------------------------
 
 - **Non-convex regularization**
 
@@ -18,14 +18,11 @@ If you want to better understand Geometric Low-rank Tensor Completion (GLTC), th
 
     ------------------------------------------------
 
-- Low-rank tensor completion
+- **Low-rank tensor completion**
 
   - Tensor Completion for Estimating Missing Values in Visual Data, **IEEE TPAMI 2013**. [[**PDF**](https://doi.org/10.1109/TPAMI.2012.39)]
 
   - Efficient Nonconvex Regularized Tensor Completion with Structure-aware Proximal Iterations, **ICML 2019**. [[**PDF**](https://arxiv.org/pdf/1807.08725.pdf)] [[**Matlab code**](https://github.com/quanmingyao/FasTer)]
 
-    ------
-
-
-Tutorials and Python codes for tensor factorization/completion/regression techniques with real-world applications:
+    ------------------------------------------------
 
