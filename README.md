@@ -18,7 +18,7 @@ Contents
 
 - Part 1: Foundations
   - 1  Proximal Methods
-    - [1.1 Singular Value Thresholding](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/svt.ipynb)
+    - [1.1 Singular Value Thresholding](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/SVT.ipynb)
 
 - Part 2: Matrix Factorization and Completion Techniques
   - [1  Low-Rank Matrix Completion](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/LRMC.ipynb)
