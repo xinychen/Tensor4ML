@@ -33,7 +33,8 @@ Contents
     - [2.4 A Bayesian Solution](xxxx)
 
   - 3 Temporal Regularized Matrix Factorization
-
+    - [3.1 An Alternating Least Square Solution](xxxx)
+    - [3.2 A Probabilistic Solution](xxxx)
 
   - 4 Bayesian Temporal Matrix Factorization
     - [4.1 Incorporating Autoregressive (AR) Model](xxxx)
