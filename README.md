@@ -18,12 +18,13 @@ Contents
 
 - Part 1: Foundations
   - 1  Proximal Methods
-    - [1.1 Singular Value Thresholding](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/SVT.ipynb)
+    - [1.1 Iterative Shrinkage Thresholding Algorithm](xxxx)
+    - [1.2 Singular Value Thresholding](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/SVT.ipynb)
 
 - Part 2: Matrix Factorization and Completion Techniques
   - 1  Low-Rank Matrix Completion
-    - [1.1 Solving with Nuclear Norm Regularization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/LRMC.ipynb)
-    - [1.2 Solving with Nonconvex Regularization](xxxx)
+    - [1.1 Building on Nuclear Norm Regularization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/LRMC.ipynb)
+    - [1.2 Building on Nonconvex Regularization](xxxx)
 
   - 2 Temporal Regularized Matrix Factorization
 
