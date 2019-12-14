@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/xinychen/tensor-learning.svg?logo=github&label=Stars&logoColor=white)](https://github.com/xinychen/tensor-learning)
 
 
-Tutorials and Python codes for tensor factorization/completion/regression techniques with real-world applications:
+Tutorials and Python codes for tensor factorization, tensor completion and tensor regression techniques with the following real-world applications:
 
 - Image inpainting
 - Spatiotemporal data imputation
