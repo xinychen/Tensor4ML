@@ -21,11 +21,17 @@ Contents
     - [1.1 Singular Value Thresholding](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/SVT.ipynb)
 
 - Part 2: Matrix Factorization and Completion Techniques
-  - [1  Low-Rank Matrix Completion](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/LRMC.ipynb)
+  - [1  Low-Rank Matrix Completion]
+    - [1.1 Solving with Nuclear Norm Regularization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/LRMC.ipynb)
+    - [1.2 Solving with Nonconvex Regularization](xxxx)
 
-  - 2  Bayesian Temporal Matrix Factorization
-    - [2.1 Incorporating Autoregressive (AR) Model](xxxx)
-    - [2.2 Incorporating Vector Autoregressive (VAR) Model](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/BTMF.ipynb)
+  - 2 Temporal Regularized Matrix Factorization
+
+  - 3 Probabilistic Sequential Matrix Factorization
+
+  - 4  Bayesian Temporal Matrix Factorization
+    - [4.1 Incorporating Autoregressive (AR) Model](xxxx)
+    - [4.2 Incorporating Vector Autoregressive (VAR) Model](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/BTMF.ipynb)
 
 - Part 3: Tensor Factorization Techniques
   - [1  Tensor Factorization with Alternating Least Square (ALS)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-01.ipynb)
@@ -38,7 +44,7 @@ Contents
 
   - [1 Tensor Robust Principal Component Analysis](xxxx)
 
-- Part 5: Multi-dimensional Tensor Regression [coming soon!]
+- Part 5: Multidimensional Tensor Regression [coming soon!]
 
 Quick Run
 ---
