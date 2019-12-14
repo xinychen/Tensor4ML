@@ -34,6 +34,8 @@ Contents
 
 - Part 4: Low-Rank Tensor Completion Techniques [coming soon!]
 
+  - [1 Tensor Robust Principal Component Analysis](xxxx)
+
 - Part 5: Multi-dimensional Tensor Regression [coming soon!]
 
 Quick Run
