@@ -23,7 +23,9 @@ Contents
 - Part 2: Matrix Factorization and Completion Techniques
   - [1  Low-Rank Matrix Completion](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/LRMC.ipynb)
 
-  - [2  Bayesian Temporal Matrix Factorization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/BTMF.ipynb)
+  - 2  Bayesian Temporal Matrix Factorization
+    - [2.1 Incorporating Autoregressive (AR) Model](xxxx)
+    - [2.2 Incorporating Vector Autoregressive (VAR) Model](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/BTMF.ipynb)
 
 - Part 3: Tensor Factorization Techniques
   - [1  Tensor Factorization with Alternating Least Square (ALS)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-01.ipynb)
