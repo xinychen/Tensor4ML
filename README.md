@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/xinychen/tensor-learning.svg?logo=github&label=Stars&logoColor=white)](https://github.com/xinychen/tensor-learning)
 
 
-Tutorials and Python codes for tensor factorization/completion/regression techniques with real-world applications:
+Tutorials and Python codes for tensor factorization, tensor completion and tensor regression techniques with the following real-world applications:
 
 - Image inpainting
 - Spatiotemporal data imputation
@@ -17,13 +17,28 @@ Contents
 ---
 
 - Part 1: Foundations
-  - 1  Proximal Methods
-    - [1.1 Singular Value Thresholding](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/SVT.ipynb)
+  - 1 Proximal Methods
+    - [1.1 Iterative Shrinkage Thresholding Algorithm](xxxx)
+    - [1.2 Singular Value Thresholding](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/SVT.ipynb)
 
 - Part 2: Matrix Factorization and Completion Techniques
-  - [1  Low-Rank Matrix Completion](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/LRMC.ipynb)
+  - 1 Low-Rank Matrix Completion
+    - [1.1 Building on Nuclear Norm Regularization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/LRMC.ipynb)
+    - [1.2 Building on Nonconvex Regularization](xxxx)
 
-  - [2  Bayesian Temporal Matrix Factorization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/BTMF.ipynb)
+  - 2 Low-Rank Matrix Factorization
+    - [2.1 A Gradient Descent Solution](xxxx)
+    - [2.2 An Alternating Least Square Solution](xxxx)
+    - [2.3 A Probabilistic Solution](xxxx)
+    - [2.4 A Bayesian Solution](xxxx)
+
+  - 3 Temporal Regularized Matrix Factorization
+    - [3.1 An Alternating Least Square Solution](xxxx)
+    - [3.2 A Probabilistic Solution](xxxx)
+
+  - 4 Bayesian Temporal Matrix Factorization
+    - [4.1 Incorporating Autoregressive (AR) Model](xxxx)
+    - [4.2 Incorporating Vector Autoregressive (VAR) Model](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/BTMF.ipynb)
 
 - Part 3: Tensor Factorization Techniques
   - [1  Tensor Factorization with Alternating Least Square (ALS)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-01.ipynb)
@@ -34,7 +49,9 @@ Contents
 
 - Part 4: Low-Rank Tensor Completion Techniques [coming soon!]
 
-- Part 5: Multi-dimensional Tensor Regression [coming soon!]
+  - [1 Tensor Robust Principal Component Analysis](xxxx)
+
+- Part 5: Multidimensional Tensor Regression [coming soon!]
 
 Quick Run
 ---
