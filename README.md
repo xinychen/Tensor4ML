@@ -49,7 +49,9 @@ Contents
 
 - Part 4: Low-Rank Tensor Completion Techniques [coming soon!]
 
-  - [1 Tensor Robust Principal Component Analysis](xxxx)
+  - 1 Tensor Robust Principal Component Analysis
+    - [1.1 Modeling for Tensor Completion Problem](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/TRPCA.ipynb)
+    - [1.2 Modeling for Outlier Detection Problem](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/TRPCA-Outlier.ipynb)
 
 - Part 5: Multidimensional Tensor Regression [coming soon!]
 
