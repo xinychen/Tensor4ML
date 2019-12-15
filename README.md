@@ -48,7 +48,6 @@ Contents
   - [3  Bayesian Gaussian Tensor Factorization](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/part-03/chapter-03.ipynb)
 
 - Part 4: Low-Rank Tensor Completion Techniques [coming soon!]
-
   - 1 Tensor Robust Principal Component Analysis
     - [1.1 Modeling for Tensor Recovery Problem](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/TRPCA.ipynb)
     - [1.2 Modeling for Outlier Detection Problem](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/TRPCA-Outlier.ipynb)
