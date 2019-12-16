@@ -18,8 +18,13 @@ Contents
 
 - Part 1: Foundations
   - 1 Proximal Methods
-    - [1.1 Iterative Shrinkage Thresholding Algorithm](xxxx)
+    - [1.1 Iterative Shrinkage Thresholding Algorithm (ISTA)](xxxx)
     - [1.2 Singular Value Thresholding](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/content/SVT.ipynb)
+
+  - 2 Bayesian Inference Methods
+
+  - 3 Time Series Analysis
+    - [1.1 Vector Autoregressive (VAR) Model](xxxx)
 
 - Part 2: Matrix Factorization and Completion Techniques
   - 1 Low-Rank Matrix Completion
