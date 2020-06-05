@@ -10,10 +10,14 @@ Tutorials and Python codes for tensor factorization, tensor completion and tenso
 - Image inpainting
 - Spatiotemporal data imputation
 - Recommender systems
+- Multivariate time series imputation and forecasting
 
 In a hurry? Please check out our contents as follows.
 
-Contents
+
+
+
+Tutorial
 ---
 
 - Part 1: Foundations
