@@ -17,7 +17,7 @@ In a hurry? Please check out our contents as follows.
 Our Work
 ---
 
-- **Ma**chine Learning for Multivariate **T**ime **S**eries Forecasting (mats)
+- **Ma**chine Learning for Multivariate **T**ime **S**eries Forecasting (**mats**)
 
   - Low-rank autoregressive tensor completion for multivariate time series forecasting
 
