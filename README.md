@@ -19,7 +19,19 @@ Our Work
 
 - **Ma**chine Learning for Multivariate **T**ime **S**eries Forecasting (**mats**)
 
-  - Low-rank autoregressive tensor completion for multivariate time series forecasting
+<h5 align="center"><i>Low-rank autoregressive tensor completion for multivariate time series forecasting.<br>
+  [<a href="https://arxiv.org/abs/2005">arXiv</a>]</i></h5>
+
+<p align="center">
+<img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/predictor-explained.png" width="666" />
+</p>
+
+Building multivariate time series forecasting tool on the well-understood Low-Rank Tensor Completion (LRTC), we develop a **Low-Rank Autoregressive Tensor Completion** which takes into account:
+
+- autoregressive process on the matrix structure to capture local temporal states,
+- and low-rank assumption on the tensor structure to capture global low-rank patterns simultaneously.
+
+Code for reproducing experiments is provided in the **`mats`** folder. Please check out `LATC-imputer.ipynb` and `LATC-predictor.ipynb` for details.
 
 
 Tutorial
