@@ -19,7 +19,7 @@ Our Work
 
 - **Ma**chine Learning for Multivariate **T**ime **S**eries Forecasting (**mats**)
 
-<h5 align="center"><i>Low-rank autoregressive tensor completion for multivariate time series forecasting.<br>
+<h5 align="center"><i>Low-Rank Autoregressive Tensor Completion for Multivariate Time Series Forecasting.<br>
   [<a href="https://arxiv.org/abs/2005">arXiv</a>]</i></h5>
 
 <p align="center">
