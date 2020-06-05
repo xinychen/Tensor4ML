@@ -14,7 +14,10 @@ Tutorials and Python codes for tensor factorization, tensor completion and tenso
 
 In a hurry? Please check out our contents as follows.
 
+Our Work
+---
 
+### Low-rank autoregressive tensor completion for multivariate time series forecasting
 
 
 Tutorial
