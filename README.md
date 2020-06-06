@@ -13,7 +13,8 @@ Python codes for tensor factorization, tensor completion, and tensor regression 
 
 In a hurry? Please check out our contents as follows.
 
-Our Work
+
+Our Research
 ---
 
 - [**Ma**chine Learning for Multivariate **T**ime **S**eries Forecasting (**mats**)](https://github.com/xinychen/tensor-learning/tree/master/mats)
