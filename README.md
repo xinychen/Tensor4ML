@@ -34,6 +34,8 @@ Building multivariate time series forecasting tool on the well-understood Low-Ra
 >  - [LATC-imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/tree/master/mats/LATC-imputer.ipynb/)
 >  - [LATC-predictor](https://nbviewer.jupyter.org/github.com/xinychen/tensor-learning/tree/master/mats/LATC-predictor.ipynb)
 
+If you find these codes useful, please star (★) this repository.
+
 
 Tutorial
 ---
