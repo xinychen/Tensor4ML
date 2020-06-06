@@ -4,11 +4,10 @@
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
 [![GitHub stars](https://img.shields.io/github/stars/xinychen/tensor-learning.svg?logo=github&label=Stars&logoColor=white)](https://github.com/xinychen/tensor-learning)
 
+Python codes for tensor factorization, tensor completion, and tensor regression techniques with the following real-world applications:
 
-Tutorials and Python codes for tensor factorization, tensor completion and tensor regression techniques with the following real-world applications:
-
-- Image inpainting
-- Spatiotemporal data imputation
+- [geotensor](https://github.com/xinychen/geotensor) | Image inpainting
+- [transdim](https://github.com/xinychen/transdim) | Spatiotemporal traffic data imputation/prediction
 - Recommender systems
 - Multivariate time series imputation and forecasting
 
