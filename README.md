@@ -30,10 +30,9 @@ Building multivariate time series forecasting tool on the well-understood Low-Ra
 - autoregressive process on the matrix structure to capture local temporal states,
 - and low-rank assumption on the tensor structure to capture global low-rank patterns simultaneously.
 
-Codes for reproducing experiments are provided in the [**mats**](https://github.com/xinychen/tensor-learning/tree/master/mats) folder. Please open this folder to view the documentation. If you only want to see the code, please see
-
-  - [LATC-imputer](https://github.com/xinychen/tensor-learning/tree/master/mats/LATC-imputer.ipynb)
-  - [LATC-predictor](https://github.com/xinychen/tensor-learning/tree/master/mats/LATC-predictor.ipynb)
+> Codes for reproducing experiments are provided in the [**../mats**](https://github.com/xinychen/tensor-learning/tree/master/mats) folder. Please open this folder to view the documentation. If you only want to see the code, please see
+>  - [LATC-imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/tree/master/mats/LATC-imputer.ipynb/)
+>  - [LATC-predictor](https://nbviewer.jupyter.org/github.com/xinychen/tensor-learning/tree/master/mats/LATC-predictor.ipynb)
 
 
 Tutorial
