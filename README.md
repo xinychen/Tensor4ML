@@ -25,12 +25,15 @@ Our Work
 <img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/predictor-explained.png" width="666" />
 </p>
 
-Building multivariate time series forecasting tool on the well-understood Low-Rank Tensor Completion (LRTC), we develop a **Low-Rank Autoregressive Tensor Completion** which takes into account:
+Building multivariate time series forecasting tool on the well-understood Low-Rank Tensor Completion (LRTC), we develop a **Low-Rank Autoregressive Tensor Completion** to overcome the challenge of missing time series values. This model takes into account:
 
 - autoregressive process on the matrix structure to capture local temporal states,
 - and low-rank assumption on the tensor structure to capture global low-rank patterns simultaneously.
 
-Code for reproducing experiments is provided in the **`mats`** folder. Please check out `LATC-imputer.ipynb` and `LATC-predictor.ipynb` for details.
+Codes for reproducing experiments are provided in the [**mats**](https://github.com/xinychen/tensor-learning/tree/master/mats) folder. Please open this folder to view the documentation. If you only want to see the code, please see
+
+  - [LATC-imputer](https://github.com/xinychen/tensor-learning/tree/master/mats/LATC-imputer.ipynb)
+  - [LATC-predictor](https://github.com/xinychen/tensor-learning/tree/master/mats/LATC-predictor.ipynb)
 
 
 Tutorial
