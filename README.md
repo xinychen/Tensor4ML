@@ -6,10 +6,10 @@
 
 Python codes for tensor factorization, tensor completion, and tensor regression techniques with the following real-world applications:
 
-- [geotensor](https://github.com/xinychen/geotensor) | Image inpainting
-- [transdim](https://github.com/xinychen/transdim) | Spatiotemporal traffic data imputation/prediction
+- [**geotensor**](https://github.com/xinychen/geotensor) | Image inpainting
+- [**transdim**](https://github.com/xinychen/transdim) | Spatiotemporal traffic data imputation and prediction
 - Recommender systems
-- [mats](https://github.com/xinychen/tensor-learning/tree/master/mats) | Multivariate time series imputation and forecasting
+- [**mats**](https://github.com/xinychen/tensor-learning/tree/master/mats) | Multivariate time series imputation and forecasting
 
 In a hurry? Please check out our contents as follows.
 
