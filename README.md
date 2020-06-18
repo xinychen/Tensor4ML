@@ -20,7 +20,7 @@ Our Research
 - [**Ma**chine Learning for Multivariate **T**ime **S**eries Forecasting (**mats**)](https://github.com/xinychen/tensor-learning/tree/master/mats)
 
 <h5 align="center"><i>Low-Rank Autoregressive Tensor Completion for Multivariate Time Series Forecasting.<br>
-  [<a href="https://arxiv.org/abs/2005">arXiv</a>]</i></h5>
+  [<a href="https://arxiv.org/abs/2006">arXiv</a>]</i></h5>
 
 <p align="center">
 <img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/predictor-explained.png" width="666" />
@@ -32,8 +32,8 @@ Building multivariate time series forecasting tool on the well-understood Low-Ra
 - and low-rank assumption on the tensor structure to capture global low-rank patterns simultaneously.
 
 > Codes for reproducing experiments are provided in the [**../mats**](https://github.com/xinychen/tensor-learning/tree/master/mats) folder. Please open this folder to view the documentation. If you only want to see the codes directly, please open
->  - [LATC-imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/tree/master/mats/LATC-imputer.ipynb/)
->  - [LATC-predictor](https://nbviewer.jupyter.org/github.com/xinychen/tensor-learning/tree/master/mats/LATC-predictor.ipynb)
+>  - [LATC-imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-imputer.ipynb)
+>  - [LATC-predictor](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb)
 
 If you find these codes useful, please star (★) this repository.
 
