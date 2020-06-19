@@ -11,7 +11,7 @@
 
 
 <h5 align="center"><i>Low-Rank Autoregressive Tensor Completion for Multivariate Time Series Forecasting.<br>
-  [<a href="https://arxiv.org/abs/2005">arXiv</a>]</i></h5>
+  [<a href="https://arxiv.org/abs/2006.10436">arXiv</a>]</i></h5>
 
 <p align="center">
 <img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/predictor-explained.png" width="666" />
@@ -68,9 +68,9 @@ If you use these codes in your work, please cite our paper:
 
 ```bibtex
 @article{chen2020lowrank,
-    author={xx},
+    author={Xinyu Chen, Lijun Sun},
     title={{Low-Rank Autoregressive Tensor Completion for Multivariate Time Series Forecasting}},
     year={2020},
-    journal={arXiv:2006.xxxx}
+    journal={arXiv:2006.10436}
 }
 ```
