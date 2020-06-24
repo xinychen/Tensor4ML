@@ -14,7 +14,7 @@
   [<a href="https://arxiv.org/abs/2006.10436">arXiv</a>]</i></h5>
 
 <p align="center">
-<img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/predictor-explained.png" width="666" />
+<img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/predictor-explained.png" width="700" />
 </p>
 
 Our aim is to build multivariate time series forecasting tool on the well-understood Low-Rank Tensor Completion (LRTC). In this work, we develop a Low-Rank Autoregressive Tensor Completion (LATC) which takes into account:
@@ -49,7 +49,7 @@ For your convenience, these notebooks do not rely on too much Python packages. Y
 We provide this report by evaluating models on three real-world data sets with certain amount of missing values.
 
 <p align="center">
-<img align="middle" src="https://github.com/xinychen/tensor-learning/blob/master/images/latc_imputation_result.png" width="600" />
+<img align="middle" src="https://github.com/xinychen/tensor-learning/blob/master/images/latc_imputation_result.png" width="550" />
 </p>
 
 > For more detail, please check out our paper, appendix, and Python code.
@@ -60,7 +60,7 @@ We provide this report by evaluating models on three real-world data sets with c
 We provide this report by evaluating models on three real-world data sets. The rolling forecasting scenario is accompanied with missing values, and these missing values are created both in completely random manner and non-random manner.
 
 <p align="center">
-<img align="middle" src="https://github.com/xinychen/tensor-learning/blob/master/images/latc_prediction_result.png" width="600" />
+<img align="middle" src="https://github.com/xinychen/tensor-learning/blob/master/images/latc_prediction_result.png" width="550" />
 </p>
 
 
