@@ -45,3 +45,10 @@ Quick Run
   - open the `.ipynb` file using [Jupyter notebook](https://jupyter.org/install.html),
   - and run the code.
 
+Our Publications
+--------------
+
+- Xinyu Chen, Lijun Sun (2020). **Low-rank autoregressive tensor completion for multivariate time series forecasting**. arXiv: 2006.10436. [[preprint](https://arxiv.org/abs/2006.10436)] [[data & Python code](https://github.com/xinychen/tensor-learning)]
+
+  >This project is from the above papers, please cite these papers if they help your research.
+
