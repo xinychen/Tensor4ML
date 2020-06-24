@@ -49,7 +49,7 @@ For your convenience, these notebooks do not rely on too much Python packages. Y
 We provide this report by evaluating models on three real-world data sets with certain amount of missing values.
 
 <p align="center">
-<img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/lact_imputation_result.png" width="500" />
+<img align="middle" src="https://github.com/xinychen/tensor-learning/blob/master/images/latc_imputation_result.png" width="500" />
 </p>
 
 > For more detail, please check out our paper, appendix, and Python code.
@@ -60,7 +60,7 @@ We provide this report by evaluating models on three real-world data sets with c
 We provide this report by evaluating models on three real-world data sets. The rolling forecasting scenario is accompanied with missing values, and these missing values are created both in completely random manner and non-random manner.
 
 <p align="center">
-<img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/lact_prediction_result.png" width="500" />
+<img align="middle" src="https://github.com/xinychen/tensor-learning/blob/master/images/latc_prediction_result.png" width="500" />
 </p>
 
 
