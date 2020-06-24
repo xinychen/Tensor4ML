@@ -23,7 +23,11 @@ Our Research
   [<a href="https://arxiv.org/abs/2006.10436">arXiv</a>]</i></h5>
 
 <p align="center">
-<img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/predictor-explained.png" width="666" />
+<img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/predictor-explained.png" width="700" />
+</p>
+
+<p align="center">
+<b>Figure 1</b>: Illustration of our proposed Low-Rank Tensor Completion (LATC) imputer/predictor with a prediction window τ (green nodes: observed values; white nodes: missing values; red nodes/panel: prediction; blue panel: training data to construct the tensor).
 </p>
 
 Building multivariate time series forecasting tool on the well-understood Low-Rank Tensor Completion (LRTC), we develop a **Low-Rank Autoregressive Tensor Completion** to overcome the challenge of missing time series values. This model takes into account:
@@ -50,5 +54,14 @@ Our Publications
 
 - Xinyu Chen, Lijun Sun (2020). **Low-rank autoregressive tensor completion for multivariate time series forecasting**. arXiv: 2006.10436. [[preprint](https://arxiv.org/abs/2006.10436)] [[data & Python code](https://github.com/xinychen/tensor-learning)]
 
-  >This project is from the above papers, please cite these papers if they help your research.
+>This project is from the above papers, please cite these papers if they help your research.
 
+Acknowledgements
+--------------
+
+This research is supported by the [Institute for Data Valorization (IVADO)](https://ivado.ca/en/ivado-scholarships/excellence-scholarships-phd/).
+
+License
+--------------
+
+This work is released under the MIT license.
