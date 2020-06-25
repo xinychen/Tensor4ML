@@ -19,7 +19,9 @@ In a hurry? Please check out our contents as follows.
 <h2 align="center">Our Research</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
-#### **mats**: **Ma**chine Learning for Multivariate **T**ime **S**eries Forecasting
+## mats
+
+**mats** is a project in the tensor learning repository, and it aims to develop **ma**chine learning for multivariate **t**ime **s**eries forecasting.
 
 <h5 align="center"><i>Low-Rank Autoregressive Tensor Completion for Multivariate Time Series Forecasting.<br>
   [<a href="https://arxiv.org/abs/2006.10436">arXiv</a>]</i></h5>
@@ -37,9 +39,10 @@ Building multivariate time series forecasting tool on the well-understood Low-Ra
 - autoregressive process on the matrix structure to capture local temporal states,
 - and low-rank assumption on the tensor structure to capture global low-rank patterns simultaneously.
 
-> Codes for reproducing experiments are provided in the [**../mats**](https://github.com/xinychen/tensor-learning/tree/master/mats) folder. Please open this folder to view the documentation. If you only want to see the codes directly, please open
->  - [LATC-imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-imputer.ipynb)
->  - [LATC-predictor](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb)
+Python codes for reproducing experiments are provided in the [**../mats**](https://github.com/xinychen/tensor-learning/tree/master/mats) folder. Please open this folder to view the documentation. If you only want to see the codes directly, please open
+
+- [LATC-imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-imputer.ipynb)
+- [LATC-predictor](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb)
 
 If you find these codes useful, please star (★) this repository.
 
@@ -57,9 +60,10 @@ If you find these codes useful, please star (★) this repository.
 <h2 align="center">Citing</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
+>This project is from the above paper, please cite our paper if they help your research.
+
 - Xinyu Chen, Lijun Sun (2020). **Low-rank autoregressive tensor completion for multivariate time series forecasting**. arXiv: 2006.10436. [[preprint](https://arxiv.org/abs/2006.10436)] [[data & Python code](https://github.com/xinychen/tensor-learning)]
 
->This project is from the above paper, please cite our paper if they help your research.
 
 <h2 align="center">Acknowledgements</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
