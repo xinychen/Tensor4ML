@@ -16,10 +16,10 @@ Python codes for tensor factorization, tensor completion, and tensor regression 
 In a hurry? Please check out our contents as follows.
 
 
-Our Research
----
+<h2 align="center">Our Research</h2>
+<p align="right"><a href="#tensor-learning"><sup>▴ Back to top</sup></a></p>
 
-- **mats**: **Ma**chine Learning for Multivariate **T**ime **S**eries Forecasting
+#### **mats**: **Ma**chine Learning for Multivariate **T**ime **S**eries Forecasting
 
 <h5 align="center"><i>Low-Rank Autoregressive Tensor Completion for Multivariate Time Series Forecasting.<br>
   [<a href="https://arxiv.org/abs/2006.10436">arXiv</a>]</i></h5>
