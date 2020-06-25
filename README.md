@@ -17,7 +17,7 @@ In a hurry? Please check out our contents as follows.
 
 
 <h2 align="center">Our Research</h2>
-<p align="right"><a href="#tensor-learning"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
 #### **mats**: **Ma**chine Learning for Multivariate **T**ime **S**eries Forecasting
 
@@ -44,10 +44,10 @@ Building multivariate time series forecasting tool on the well-understood Low-Ra
 If you find these codes useful, please star (★) this repository.
 
 <h2 align="center">:book: Tutorial</h2>
-<p align="right"><a href="#tensor-learning"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
 <h2 align="center">Quick Run</h2>
-<p align="right"><a href="#tensor-learning"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
 - If you want to run the code, please
   - download (or clone) this repository,
@@ -55,18 +55,18 @@ If you find these codes useful, please star (★) this repository.
   - and run the code.
 
 <h2 align="center">Citing</h2>
-<p align="right"><a href="#tensor-learning"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
 - Xinyu Chen, Lijun Sun (2020). **Low-rank autoregressive tensor completion for multivariate time series forecasting**. arXiv: 2006.10436. [[preprint](https://arxiv.org/abs/2006.10436)] [[data & Python code](https://github.com/xinychen/tensor-learning)]
 
 >This project is from the above paper, please cite our paper if they help your research.
 
 <h2 align="center">Acknowledgements</h2>
-<p align="right"><a href="#tensor-learning"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
 This research is supported by the [Institute for Data Valorization (IVADO)](https://ivado.ca/en/ivado-scholarships/excellence-scholarships-phd/).
 
 <h2 align="center">License</h2>
-<p align="right"><a href="#tensor-learning"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
 This work is released under the MIT license.
