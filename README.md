@@ -60,7 +60,7 @@ If you find these codes useful, please star (★) this repository.
 <h2 align="center">Citing</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
->This project is from the above paper, please cite our paper if they help your research.
+This project is from the following paper, please cite our paper if they help your research.
 
 - Xinyu Chen, Lijun Sun (2020). **Low-rank autoregressive tensor completion for multivariate time series forecasting**. arXiv: 2006.10436. [[preprint](https://arxiv.org/abs/2006.10436)] [[data & Python code](https://github.com/xinychen/tensor-learning)]
 
