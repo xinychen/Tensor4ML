@@ -4,6 +4,8 @@
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
 [![GitHub stars](https://img.shields.io/github/stars/xinychen/tensor-learning.svg?logo=github&label=Stars&logoColor=white)](https://github.com/xinychen/tensor-learning)
 
+<h6 align="center">Made by Xinyu Chen • :globe_with_meridians: <a href="https://xinychen.github.io">https://xinychen.github.io</a></h6>
+
 Python codes for tensor factorization, tensor completion, and tensor regression techniques with the following real-world applications:
 
 - [**geotensor**](https://github.com/xinychen/geotensor) | Image inpainting
@@ -17,7 +19,7 @@ In a hurry? Please check out our contents as follows.
 Our Research
 ---
 
-- [**Ma**chine Learning for Multivariate **T**ime **S**eries Forecasting (**mats**)](https://github.com/xinychen/tensor-learning/tree/master/mats)
+- **mats**: **Ma**chine Learning for Multivariate **T**ime **S**eries Forecasting
 
 <h5 align="center"><i>Low-Rank Autoregressive Tensor Completion for Multivariate Time Series Forecasting.<br>
   [<a href="https://arxiv.org/abs/2006.10436">arXiv</a>]</i></h5>
@@ -26,9 +28,9 @@ Our Research
 <img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/predictor-explained.png" width="700" />
 </p>
 
-<p align="center">
+<h6 align="center">
 <b>Figure 1</b>: Illustration of our proposed Low-Rank Tensor Completion (LATC) imputer/predictor with a prediction window τ (green nodes: observed values; white nodes: missing values; red nodes/panel: prediction; blue panel: training data to construct the tensor).
-</p>
+</h6>
 
 Building multivariate time series forecasting tool on the well-understood Low-Rank Tensor Completion (LRTC), we develop a **Low-Rank Autoregressive Tensor Completion** to overcome the challenge of missing time series values. This model takes into account:
 
