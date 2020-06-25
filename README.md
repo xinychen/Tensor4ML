@@ -43,27 +43,30 @@ Building multivariate time series forecasting tool on the well-understood Low-Ra
 
 If you find these codes useful, please star (★) this repository.
 
-Quick Run
----
+<h2 align="center">:book: Tutorial</h2>
+<p align="right"><a href="#tensor-learning"><sup>▴ Back to top</sup></a></p>
+
+<h2 align="center">Quick Run</h2>
+<p align="right"><a href="#tensor-learning"><sup>▴ Back to top</sup></a></p>
 
 - If you want to run the code, please
   - download (or clone) this repository,
   - open the `.ipynb` file using [Jupyter notebook](https://jupyter.org/install.html),
   - and run the code.
 
-Our Publications
---------------
+<h2 align="center">Citing</h2>
+<p align="right"><a href="#tensor-learning"><sup>▴ Back to top</sup></a></p>
 
 - Xinyu Chen, Lijun Sun (2020). **Low-rank autoregressive tensor completion for multivariate time series forecasting**. arXiv: 2006.10436. [[preprint](https://arxiv.org/abs/2006.10436)] [[data & Python code](https://github.com/xinychen/tensor-learning)]
 
->This project is from the above papers, please cite these papers if they help your research.
+>This project is from the above paper, please cite our paper if they help your research.
 
-Acknowledgements
---------------
+<h2 align="center">Acknowledgements</h2>
+<p align="right"><a href="#tensor-learning"><sup>▴ Back to top</sup></a></p>
 
 This research is supported by the [Institute for Data Valorization (IVADO)](https://ivado.ca/en/ivado-scholarships/excellence-scholarships-phd/).
 
-License
---------------
+<h2 align="center">License</h2>
+<p align="right"><a href="#tensor-learning"><sup>▴ Back to top</sup></a></p>
 
 This work is released under the MIT license.
