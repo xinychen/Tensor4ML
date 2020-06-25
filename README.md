@@ -49,6 +49,8 @@ If you find these codes useful, please star (★) this repository.
 <h2 align="center">:book: Tutorial</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
+We summarize some preliminaries for better understanding tensor learning. They are given in the form of tutorial as follows.
+
 - **Singular Value Decomposition (SVD)**
 
   - [Randomized Singular Value Decomposition](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/tutorial/randomized_svd.ipynb)
