@@ -41,8 +41,8 @@ In this work, we develop a **Low-Rank Autoregressive Tensor Completion** for mul
 
 Python codes for reproducing experiments are provided in the [**../mats**](https://github.com/xinychen/tensor-learning/tree/master/mats) folder. Since these Python codes were written on the Jupyter Notebook, you could also view them on the nbviewer. Please open
 
-- LATC-imputer: [https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-imputer.ipynb](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-imputer.ipynb)
-- LATC-predictor: [https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb)
+- [LATC-imputer.ipynb](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-imputer.ipynb)
+- [LATC-predictor.ipynb](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb)
 
 If you find these codes useful, please star (★) this repository.
 
