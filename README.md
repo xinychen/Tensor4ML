@@ -4,7 +4,7 @@
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
 [![GitHub stars](https://img.shields.io/github/stars/xinychen/tensor-learning.svg?logo=github&label=Stars&logoColor=white)](https://github.com/xinychen/tensor-learning)
 
-<h6 align="center">Made by Xinyu Chen • :globe_with_meridians: <a href="https://xinychen.github.io">https://xinychen.github.io</a></h6>
+<h6 align="center">Made by Xinyu Chen • :globe_with_meridians: <a href="https://twitter.com/chenxy346">https://twitter.com/chenxy346</a></h6>
 
 Python codes for tensor factorization, tensor completion, and tensor regression techniques with the following real-world applications:
 
@@ -53,7 +53,7 @@ We summarize some preliminaries for better understanding tensor learning. They a
 
 - **Singular Value Decomposition (SVD)**
 
-  - [Randomized Singular Value Decomposition](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/tutorial/randomized_svd.ipynb)
+  - Randomized Singular Value Decomposition [[Jupyter Notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/tutorial/randomized_svd.ipynb)] [[blog post](https://t.co/fkgMQTsz6G?amp=1)]
 
 <h2 align="center">Quick Run</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
