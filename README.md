@@ -53,7 +53,8 @@ We summarize some preliminaries for better understanding tensor learning. They a
 
 - **Singular Value Decomposition (SVD)**
 
-  - Randomized Singular Value Decomposition [[Jupyter Notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/tutorial/randomized_svd.ipynb)] [[blog post](https://t.co/fkgMQTsz6G?amp=1)]
+  - Randomized singular value decomposition [[Jupyter Notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/tutorial/randomized_svd.ipynb)] [[blog post](https://t.co/fkgMQTsz6G?amp=1)]
+  - Tensor singular value decomposition
 
 <h2 align="center">Quick Run</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
