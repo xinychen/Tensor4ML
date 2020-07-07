@@ -51,6 +51,10 @@ If you find these codes useful, please star (★) this repository.
 
 We summarize some preliminaries for better understanding tensor learning. They are given in the form of tutorial as follows.
 
+- **Foundations of Python Numpy Programming**
+
+  - Generating random numbers in Matlab and Numpy [[Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/tutorial/random_matlab_numpy.ipynb)] [[blog post](xx)]
+
 - **Singular Value Decomposition (SVD)**
 
   - Randomized singular value decomposition [[Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/tutorial/randomized_svd.ipynb)] [[blog post](https://t.co/fkgMQTsz6G?amp=1)]
