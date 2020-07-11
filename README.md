@@ -55,6 +55,10 @@ We summarize some preliminaries for better understanding tensor learning. They a
 
   - Generating random numbers in Matlab and Numpy [[Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/tutorial/random_matlab_numpy.ipynb)] [[blog post](xx)]
 
+- **Foundations of Tensor Computations**
+
+  - Kronecker product
+
 - **Singular Value Decomposition (SVD)**
 
   - Randomized singular value decomposition [[Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/tutorial/randomized_svd.ipynb)] [[blog post](https://t.co/fkgMQTsz6G?amp=1)]
