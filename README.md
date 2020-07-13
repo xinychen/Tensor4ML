@@ -21,7 +21,7 @@ In a hurry? Please check out our contents as follows.
 
 We conduct extensive experiments on some real-world data sets:
 
-  - [Large-scale PeMS traffic speed data set](https://doi.org/10.5281/zenodo.3939792) registers traffic speed time series from 11160 sensors over 4/8/12 weeks (for PeMS-4W/PeMS-8W/PeMS-12W) with 288 time points per day (i.e., 5-min frequency). You can download this data set and place it at the folder of `datasets`.
+  - [Large-scale PeMS traffic speed data set](https://doi.org/10.5281/zenodo.3939792) registers traffic speed time series from 11160 sensors over 4/8/12 weeks (for PeMS-4W/PeMS-8W/PeMS-12W) with 288 time points per day (i.e., 5-min frequency) in California, USA. You can download this data set and place it at the folder of `datasets`.
   
     - Data path example: `../datasets/California-data-set/pems-4w.csv`.
 
