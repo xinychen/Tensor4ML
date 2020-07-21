@@ -82,6 +82,8 @@ We summarize some preliminaries for better understanding tensor learning. They a
 
 - Ruye Wang (2010). Introduction to Orthogonal Transforms with Applications in Data Processing and Analysis. Cambridge University Press. [[PDF](http://fourier.eng.hmc.edu/book/lectures/mybook.pdf)]
 
+- Steven L. Brunton, J. Nathan Kutz (2019). Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control. Cambridge University Press. [[PDF](http://databookuw.com/databook.pdf)] [[data & code](http://databookuw.com/)]
+
 <h2 align="center">Quick Run</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
