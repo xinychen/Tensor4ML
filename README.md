@@ -77,7 +77,7 @@ We summarize some preliminaries for better understanding tensor learning. They a
   - Randomized singular value decomposition [[Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/tutorial/randomized_svd.ipynb)] [[blog post](https://t.co/fkgMQTsz6G?amp=1)]
   - Tensor singular value decomposition
 
-<h2 align="center">Helpful Learning Material</h2>
+<h2 align="center">Helpful Material</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
 - Ruye Wang (2010). Introduction to Orthogonal Transforms with Applications in Data Processing and Analysis. Cambridge University Press. [[PDF](http://fourier.eng.hmc.edu/book/lectures/mybook.pdf)]
