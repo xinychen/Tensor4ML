@@ -80,6 +80,8 @@ We summarize some preliminaries for better understanding tensor learning. They a
 <h2 align="center">Helpful Material</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
+- Vladimir Britanak, Patrick C. Yip, K.R. Rao (2006). Discrete Cosine and Sine Transforms: General Properties, Fast Algorithms and Integer Approximations. Academic Press. [[About the book](https://www.sciencedirect.com/book/9780123736246/discrete-cosine-and-sine-transforms)]
+
 - Ruye Wang (2010). Introduction to Orthogonal Transforms with Applications in Data Processing and Analysis. Cambridge University Press. [[PDF](http://fourier.eng.hmc.edu/book/lectures/mybook.pdf)]
 
 - Steven L. Brunton, J. Nathan Kutz (2019). Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control. Cambridge University Press. [[PDF](http://databookuw.com/databook.pdf)] [[data & code](http://databookuw.com/)]
