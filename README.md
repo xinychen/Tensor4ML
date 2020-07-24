@@ -34,7 +34,7 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
 
 ## mats
 
-**mats** is a project in the tensor learning repository, and it aims to develop **ma**chine learning for multivariate **t**ime **s**eries forecasting. In this project, we propose following low-rank tensor learning models:
+**mats** is a project in the tensor learning repository, and it aims to develop **ma**chine learning for multivariate **t**ime **s**eries forecasting. In this project, we propose the following low-rank tensor learning models:
 
 - [Low-Rank Autoregressive Tensor Completion (LATC)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-3min-intro.ipynb)
 
