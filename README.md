@@ -34,30 +34,9 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
 
 ## mats
 
-**mats** is a project in the tensor learning repository, and it aims to develop **ma**chine learning for multivariate **t**ime **s**eries forecasting.
+**mats** is a project in the tensor learning repository, and it aims to develop **ma**chine learning for multivariate **t**ime **s**eries forecasting. In this project, we propose following low-rank tensor learning models:
 
-<h5 align="center"><i>Low-Rank Autoregressive Tensor Completion for Multivariate Time Series Forecasting.<br>
-  [<a href="https://arxiv.org/abs/2006.10436">arXiv</a>]</i></h5>
-
-<p align="center">
-<img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/predictor-explained.png" width="700" />
-</p>
-
-<h6 align="center">
-<b>Figure 1</b>: Illustration of our proposed Low-Rank Tensor Completion (LATC) imputer/predictor with a prediction window τ (green nodes: observed values; white nodes: missing values; red nodes/panel: prediction; blue panel: training data to construct the tensor).
-</h6>
-
-In this work, we develop a **Low-Rank Autoregressive Tensor Completion** for multivariate time series forecasting in the presence of missing values. To overcome the challenge of missing time series values, our LATC model takes into account:
-
-- autoregressive process on the matrix structure to capture local temporal states,
-- and low-rank assumption on the tensor structure to capture global low-rank patterns simultaneously.
-
-Python codes for reproducing experiments are provided in the [**../mats**](https://github.com/xinychen/tensor-learning/tree/master/mats) folder. Since these Python codes were written on the Jupyter Notebook, you could also view them on the nbviewer. Please open
-
-- [LATC-imputer.ipynb](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-imputer.ipynb)
-- [LATC-predictor.ipynb](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb)
-
-If you find these codes useful, please star (★) this repository.
+- [Low-Rank Autoregressive Tensor Completion (LATC)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-3min-intro.ipynb)
 
 <h2 align="center">:book: Tutorial</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
@@ -76,6 +55,8 @@ We summarize some preliminaries for better understanding tensor learning. They a
 
   - Randomized singular value decomposition [[Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/tutorial/randomized_svd.ipynb)] [[blog post](https://t.co/fkgMQTsz6G?amp=1)]
   - Tensor singular value decomposition
+
+If you find these codes useful, please star (★) this repository.
 
 <h2 align="center">Helpful Material</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
