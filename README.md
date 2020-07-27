@@ -61,6 +61,8 @@ If you find these codes useful, please star (★) this repository.
 <h2 align="center">Helpful Material</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
 
+We believe that these material will be a valuable and useful source for the readers in the further study or advanced research.
+
 - Vladimir Britanak, Patrick C. Yip, K.R. Rao (2006). Discrete Cosine and Sine Transforms: General Properties, Fast Algorithms and Integer Approximations. Academic Press. [[About the book](https://www.sciencedirect.com/book/9780123736246/discrete-cosine-and-sine-transforms)]
 
 - Ruye Wang (2010). Introduction to Orthogonal Transforms with Applications in Data Processing and Analysis. Cambridge University Press. [[PDF](http://fourier.eng.hmc.edu/book/lectures/mybook.pdf)]
