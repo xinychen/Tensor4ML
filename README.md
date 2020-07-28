@@ -69,6 +69,8 @@ We believe that these material will be a valuable and useful source for the read
 
 - J. Nathan Kutz, Steven L. Brunton, Bingni Brunton, Joshua L. Proctor (2016). Dynamic Mode Decomposition: Data-Driven Modeling of Complex Systems. SIAM. [[About the book](http://www.dmdbook.com/)]
 
+- Yimin Wei, Weiyang Ding (2016). Theory and Computation of Tensors: Multi-Dimensional Arrays. Academic Press.
+
 - Steven L. Brunton, J. Nathan Kutz (2019). Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control. Cambridge University Press. [[PDF](http://databookuw.com/databook.pdf)] [[data & code](http://databookuw.com/)]
 
 <h2 align="center">Quick Run</h2>
