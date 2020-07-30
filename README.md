@@ -41,7 +41,7 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
 The baseline models include:
 
 - Bayesian Probabilistic Matrix Factorization (BPMF, [Salakhutdinov and Mnih, 2008](https://www.cs.toronto.edu/~amnih/papers/bpmf.pdf)) 
-  - [Jupyter notebook](xx)
+  - [Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/BPMF-imputer.ipynb)
   
 - Tensor Nuclear Norm minimization with Discrete Cosine Transform (TNN-DCT, [Lu et al., 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_Low-Rank_Tensor_Completion_With_a_New_Tensor_Nuclear_Norm_Induced_CVPR_2019_paper.pdf))
   - [Jupyter notebook](xx)
