@@ -44,15 +44,12 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
 The **baseline models** include:
 
 - [x] Bayesian Probabilistic Matrix Factorization (BPMF, [Salakhutdinov and Mnih, 2008](https://www.cs.toronto.edu/~amnih/papers/bpmf.pdf)) [[imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/BPMF-imputer.ipynb)]
-  - The number of burn-in/Gibbs iterations is 500/100.
   
 - [x] Bayesian Gaussian CP decomposition (BGCP, [Chen et al., 2019](https://doi.org/10.1016/j.trc.2018.11.003)) [[imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/BGCP-imputer.ipynb)]
-  - The number of burn-in/Gibbs iterations is 500/100.
 
 - [x] High-accuracy Low-Rank Tensor Completion (HaLRTC, [Liu et al., 2013](https://doi.org/10.1109/TPAMI.2012.39)) [[imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/HaLRTC-imputer.ipynb)]
 
 - [x] Low-Rank Tensor Completion with Truncated Nuclear Norm minimization (LRTC-TNN, [Chen et al., 2020](https://doi.org/10.1016/j.trc.2020.102673)) [[imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LRTC-TNN-imputer.ipynb)]
-  - The truncation rate is set as 5%.
 
 - [x] Tensor Nuclear Norm minimization with Discrete Cosine Transform (TNN-DCT, [Lu et al., 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_Low-Rank_Tensor_Completion_With_a_New_Tensor_Nuclear_Norm_Induced_CVPR_2019_paper.pdf)) [[imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/TNN-DCT-imputer.ipynb)]
 
