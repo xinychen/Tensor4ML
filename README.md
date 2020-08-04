@@ -36,7 +36,10 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
 
 **mats** is a project in the tensor learning repository, and it aims to develop **ma**chine learning models for multivariate **t**ime **s**eries forecasting. In this project, we propose the following low-rank tensor learning models:
 
-- [Low-Rank Autoregressive Tensor Completion (LATC)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-3min-intro.ipynb)
+- [Low-Rank Autoregressive Tensor Completion (LATC)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-3min-intro.ipynb) with Nuclear Norm minimization (i.e., LATC-NN) and Truncated Nuclear Norm minimization (i.e., LATC-TNN) by [Chen and Sun, (2020)](https://arxiv.org/abs/2006.10436)
+
+  - LATC-TNN on middle-scale data sets (e.g., PeMS, Guangzhou, Electricity). [[imputer](xx)] [[predictor](xx)]
+  - LATC-TNN on large-scale data sets (e.g., PeMS-4W, PeMS-8W). [[Jupyter notebook](xx)]
 
 The baseline models include:
 
@@ -44,8 +47,19 @@ The baseline models include:
   - [Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/BPMF-imputer.ipynb)
   - The number of burn-in/Gibbs iterations is 500/100.
   
+- Bayesian Gaussian CP decomposition (BGCP, [Chen et al., 2019](https://doi.org/10.1016/j.trc.2018.11.003))
+  - [Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/BGCP-imputer.ipynb)
+  - The number of burn-in/Gibbs iterations is 500/100.
+
+- High-accuracy Low-Rank Tensor Completion (HaLRTC, [Liu et al., 2013](https://doi.org/10.1109/TPAMI.2012.39))
+  - [Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/HaLRTC-imputer.ipynb)
+
+- Low-Rank Tensor Completion with Truncated Nuclear Norm minimization (LRTC-TNN, [Chen et al., 2020](https://doi.org/10.1016/j.trc.2020.102673))
+  - [Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LRTC-TNN-imputer.ipynb)
+  - The truncation rate is set as 5%.
+
 - Tensor Nuclear Norm minimization with Discrete Cosine Transform (TNN-DCT, [Lu et al., 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_Low-Rank_Tensor_Completion_With_a_New_Tensor_Nuclear_Norm_Induced_CVPR_2019_paper.pdf))
-  - [Jupyter notebook](xx)
+  - [Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/TNN-DCT-imputer.ipynb)
 
 
 <h2 align="center">:book: Tutorial</h2>
