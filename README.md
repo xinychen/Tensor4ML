@@ -36,14 +36,14 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
 
 **mats** is a project in the tensor learning repository, and it aims to develop **ma**chine learning models for multivariate **t**ime **s**eries forecasting. In this project, we propose the following low-rank tensor learning models:
 
-- [Low-Rank Autoregressive Tensor Completion (LATC)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-3min-intro.ipynb) with Nuclear Norm minimization (i.e., LATC-NN) and Truncated Nuclear Norm minimization (i.e., LATC-TNN) by [Chen and Sun, (2020)](https://arxiv.org/abs/2006.10436)
+- [Low-Rank Autoregressive Tensor Completion (LATC)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-3min-intro.ipynb) with Nuclear Norm minimization (i.e., LATC-NN) and Truncated Nuclear Norm minimization (i.e., LATC-TNN) by [Chen and Sun, (2020)](https://arxiv.org/abs/2006.10436):
 
-  - LATC-TNN on middle-scale data sets (e.g., PeMS, Guangzhou, Electricity). [[imputer](xx)] [[predictor](xx)]
-  - LATC-TNN on large-scale data sets (e.g., PeMS-4W, PeMS-8W). [[Jupyter notebook](xx)]
+  - on middle-scale data sets (e.g., PeMS, Guangzhou, Electricity) [[imputer](xx)] [[predictor](xx)]
+  - on large-scale data sets (e.g., PeMS-4W, PeMS-8W) [[Jupyter notebook](xx)]
 
-The baseline models include:
+The **baseline models** include:
 
-- Bayesian Probabilistic Matrix Factorization (BPMF, [Salakhutdinov and Mnih, 2008](https://www.cs.toronto.edu/~amnih/papers/bpmf.pdf)) 
+- Bayesian Probabilistic Matrix Factorization (BPMF, [Salakhutdinov and Mnih, 2008](https://www.cs.toronto.edu/~amnih/papers/bpmf.pdf))
   - [Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/BPMF-imputer.ipynb)
   - The number of burn-in/Gibbs iterations is 500/100.
   
