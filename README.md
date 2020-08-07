@@ -38,7 +38,7 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
 
 - [x] [Low-Rank Autoregressive Tensor Completion (LATC)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-3min-intro.ipynb) with Nuclear Norm minimization (i.e., LATC-NN) and Truncated Nuclear Norm minimization (i.e., LATC-TNN) by [Chen and Sun, (2020)](https://arxiv.org/abs/2006.10436):
 
-  - on middle-scale data sets (e.g., PeMS, Guangzhou, Electricity) [[imputer](xx)] [[predictor](xx)]
+  - on middle-scale data sets (e.g., PeMS, Guangzhou, Electricity) [[imputer](xx)] [[predictor](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb)]
   - on large-scale data sets (e.g., PeMS-4W, PeMS-8W) [[imputer](xx)]
 
 The **baseline models** include:
