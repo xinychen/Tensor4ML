@@ -60,7 +60,7 @@ We reproduce some tensor learning experiments in the previous literature.
 
 | Year | Title | PDF | Authors' Code | Our Code |
 |:---|:------:|:---:|:---:|-----:|
-|  2015 | Accelerated Online Low-Rank Tensor Learning for Multivariate Spatio-Temporal Streams | [ICML 2015](http://proceedings.mlr.press/v37/yua15.pdf) | [Matlab code](http://roseyu.com/Materials/accelerate_online_low_rank_tensor.zip) | [Python code](xx) |
+|  2015 | Accelerated Online Low-Rank Tensor Learning for Multivariate Spatio-Temporal Streams | [ICML 2015](http://proceedings.mlr.press/v37/yua15.pdf) | [Matlab code](http://roseyu.com/Materials/accelerate_online_low_rank_tensor.zip) | [Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/baselines/Online-LRTL.ipynb) |
 
 
 <h2 align="center">:book: Tutorial</h2>
