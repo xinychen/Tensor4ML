@@ -53,6 +53,15 @@ The **baseline models** include:
 
 - [x] Tensor Nuclear Norm minimization with Discrete Cosine Transform (TNN-DCT, [Lu et al., 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_Low-Rank_Tensor_Completion_With_a_New_Tensor_Nuclear_Norm_Induced_CVPR_2019_paper.pdf)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/TNN-DCT-imputer.ipynb)]
 
+<h2 align="center">:book: Reproducing Literature in Python</h2>
+<p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
+
+We reproduce some tensor learning experiments in the previous literature.
+
+| Year | Title | PDF | Authors' Code | Our Code |
+|:---|:------:|:---:|:---:|-----:|
+|  2015 | Accelerated Online Low-Rank Tensor Learning for Multivariate Spatio-Temporal Streams | [ICML 2015](http://proceedings.mlr.press/v37/yua15.pdf) | [Matlab code](http://roseyu.com/Materials/accelerate_online_low_rank_tensor.zip) | [Python code](xx) |
+
 
 <h2 align="center">:book: Tutorial</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
