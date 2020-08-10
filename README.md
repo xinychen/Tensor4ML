@@ -41,6 +41,11 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
   - on middle-scale data sets (e.g., PeMS, Guangzhou, Electricity) [[xx](xx)] [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb)]
   - on large-scale data sets (e.g., PeMS-4W, PeMS-8W) [[xx](xx)]
 
+- [x] Low-Tubal-Rank Autoregressive Tensor Completion (LATC-Tubal) by [Chen et al., (2020)](https://arxiv.org/abs/2008.03194) on large-scale data sets:
+
+  - without autoregressive norm [[xx](xx)]
+  - with autoregressive norm [[xx](xx)]
+
 The **baseline models** include:
 
 - [x] Bayesian Probabilistic Matrix Factorization (BPMF, [Salakhutdinov and Mnih, 2008](https://www.cs.toronto.edu/~amnih/papers/bpmf.pdf)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/BPMF-imputer.ipynb)]
