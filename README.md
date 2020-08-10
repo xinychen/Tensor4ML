@@ -38,20 +38,20 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
 
 - [x] [Low-Rank Autoregressive Tensor Completion (LATC)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-3min-intro.ipynb) with Nuclear Norm minimization (i.e., LATC-NN) and Truncated Nuclear Norm minimization (i.e., LATC-TNN) by [Chen and Sun, (2020)](https://arxiv.org/abs/2006.10436):
 
-  - on middle-scale data sets (e.g., PeMS, Guangzhou, Electricity) [[imputer](xx)] [[predictor](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb)]
-  - on large-scale data sets (e.g., PeMS-4W, PeMS-8W) [[imputer](xx)]
+  - on middle-scale data sets (e.g., PeMS, Guangzhou, Electricity) [[xx](xx)] [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb)]
+  - on large-scale data sets (e.g., PeMS-4W, PeMS-8W) [[xx](xx)]
 
 The **baseline models** include:
 
-- [x] Bayesian Probabilistic Matrix Factorization (BPMF, [Salakhutdinov and Mnih, 2008](https://www.cs.toronto.edu/~amnih/papers/bpmf.pdf)) [[imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/BPMF-imputer.ipynb)]
+- [x] Bayesian Probabilistic Matrix Factorization (BPMF, [Salakhutdinov and Mnih, 2008](https://www.cs.toronto.edu/~amnih/papers/bpmf.pdf)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/BPMF-imputer.ipynb)]
   
-- [x] Bayesian Gaussian CP decomposition (BGCP, [Chen et al., 2019](https://doi.org/10.1016/j.trc.2018.11.003)) [[imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/BGCP-imputer.ipynb)]
+- [x] Bayesian Gaussian CP decomposition (BGCP, [Chen et al., 2019](https://doi.org/10.1016/j.trc.2018.11.003)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/BGCP-imputer.ipynb)]
 
-- [x] High-accuracy Low-Rank Tensor Completion (HaLRTC, [Liu et al., 2013](https://doi.org/10.1109/TPAMI.2012.39)) [[imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/HaLRTC-imputer.ipynb)]
+- [x] High-accuracy Low-Rank Tensor Completion (HaLRTC, [Liu et al., 2013](https://doi.org/10.1109/TPAMI.2012.39)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/HaLRTC-imputer.ipynb)]
 
-- [x] Low-Rank Tensor Completion with Truncated Nuclear Norm minimization (LRTC-TNN, [Chen et al., 2020](https://doi.org/10.1016/j.trc.2020.102673)) [[imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LRTC-TNN-imputer.ipynb)]
+- [x] Low-Rank Tensor Completion with Truncated Nuclear Norm minimization (LRTC-TNN, [Chen et al., 2020](https://doi.org/10.1016/j.trc.2020.102673)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LRTC-TNN-imputer.ipynb)]
 
-- [x] Tensor Nuclear Norm minimization with Discrete Cosine Transform (TNN-DCT, [Lu et al., 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_Low-Rank_Tensor_Completion_With_a_New_Tensor_Nuclear_Norm_Induced_CVPR_2019_paper.pdf)) [[imputer](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/TNN-DCT-imputer.ipynb)]
+- [x] Tensor Nuclear Norm minimization with Discrete Cosine Transform (TNN-DCT, [Lu et al., 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_Low-Rank_Tensor_Completion_With_a_New_Tensor_Nuclear_Norm_Induced_CVPR_2019_paper.pdf)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/TNN-DCT-imputer.ipynb)]
 
 
 <h2 align="center">:book: Tutorial</h2>
