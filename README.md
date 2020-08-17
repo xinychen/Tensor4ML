@@ -36,14 +36,14 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
 
 **mats** is a project in the tensor learning repository, and it aims to develop **ma**chine learning models for multivariate **t**ime **s**eries forecasting. In this project, we propose the following low-rank tensor learning models:
 
-- [Low-Rank Autoregressive Tensor Completion (LATC)](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-3min-intro.ipynb) for multivariate time series (middle-scale data sets like PeMS, Guangzhou, and Electricity) imputation and forecasting ([Chen et al., 2020](https://arxiv.org/abs/2006.10436)):
+- **Low-Rank Autoregressive Tensor Completion (LATC)** ([3-min introduction](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-3min-intro.ipynb)) for multivariate time series (middle-scale data sets like PeMS, Guangzhou, and Electricity) imputation and forecasting ([Chen et al., 2020](https://arxiv.org/abs/2006.10436)):
 
-  - with nuclear norm (NN) minimization [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-NN-imputer.ipynb)]
-  - with truncated nuclear norm (TNN) minimization [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-TNN-imputer.ipynb)] [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb) for prediction]
-  - with Schatten p-norm (SN) minimization [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-SN-imputer.ipynb)]
-  - with truncated Schatten p-norm (TSN) minimization [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-TSN-imputer.ipynb)]
+  - with nuclear norm (NN) minimization [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-NN-imputer.ipynb) for imputation]
+  - with truncated nuclear norm (TNN) minimization [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-TNN-imputer.ipynb) for imputation] [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb) for prediction]
+  - with Schatten p-norm (SN) minimization [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-SN-imputer.ipynb) for imputation]
+  - with truncated Schatten p-norm (TSN) minimization [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-TSN-imputer.ipynb) for imputation]
 
-- Low-Tubal-Rank Autoregressive Tensor Completion (LATC-Tubal) for large-scale spatiotemporal traffic data (large-scale data sets like PeMS-4W and PeMS-8W) imputation ([Chen et al., 2020](https://arxiv.org/abs/2008.03194)):
+- **Low-Tubal-Rank Autoregressive Tensor Completion (LATC-Tubal)** for large-scale spatiotemporal traffic data (large-scale data sets like PeMS-4W and PeMS-8W) imputation ([Chen et al., 2020](https://arxiv.org/abs/2008.03194)):
 
   - without autoregressive norm [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-Tubal-imputer-case1.ipynb)]
   - with autoregressive norm [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-Tubal-imputer-case2.ipynb)]
