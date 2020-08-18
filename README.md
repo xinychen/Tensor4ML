@@ -38,10 +38,10 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
 
 - **Low-Rank Autoregressive Tensor Completion (LATC)** ([3-min introduction](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-3min-intro.ipynb)) for multivariate time series (middle-scale data sets like PeMS, Guangzhou, and Electricity) imputation and forecasting ([Chen et al., 2020](https://arxiv.org/abs/2006.10436)):
 
-  - with nuclear norm (NN) minimization [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-NN-imputer.ipynb) for imputation]
-  - with truncated nuclear norm (TNN) minimization [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-TNN-imputer.ipynb) for imputation] [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb) for prediction]
-  - with Schatten p-norm (SN) minimization [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-SN-imputer.ipynb) for imputation]
-  - with truncated Schatten p-norm (TSN) minimization [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-TSN-imputer.ipynb) for imputation]
+  - with nuclear norm (NN) minimization [[Python code for imputation](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-NN-imputer.ipynb)]
+  - with truncated nuclear norm (TNN) minimization [[Python code for imputation](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-TNN-imputer.ipynb)] [[Python code for prediction](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-predictor.ipynb)]
+  - with Schatten p-norm (SN) minimization [[Python code for imputation](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-SN-imputer.ipynb)]
+  - with truncated Schatten p-norm (TSN) minimization [[Python code for imputation](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-TSN-imputer.ipynb)]
 
 - **Low-Tubal-Rank Autoregressive Tensor Completion (LATC-Tubal)** for large-scale spatiotemporal traffic data (large-scale data sets like PeMS-4W and PeMS-8W) imputation ([Chen et al., 2020](https://arxiv.org/abs/2008.03194)):
 
@@ -59,11 +59,8 @@ The **baseline models** include:
   - Bayesian Probabilistic Matrix Factorization (BPMF, [Salakhutdinov and Mnih, 2008](https://www.cs.toronto.edu/~amnih/papers/bpmf.pdf)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/baselines/Large-Scale-BPMF-imputer.ipynb)]
   
   - Bayesian Gaussian CP decomposition (BGCP, [Chen et al., 2019](https://doi.org/10.1016/j.trc.2018.11.003)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/baselines/Large-Scale-BGCP-imputer.ipynb)]
-
   - High-accuracy Low-Rank Tensor Completion (HaLRTC, [Liu et al., 2013](https://doi.org/10.1109/TPAMI.2012.39)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/baselines/Large-Scale-HaLRTC-imputer.ipynb)]
-
   - Low-Rank Tensor Completion with Truncated Nuclear Norm minimization (LRTC-TNN, [Chen et al., 2020](https://doi.org/10.1016/j.trc.2020.102673)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/baselines/Large-Scale-LRTC-TNN-imputer.ipynb)]
-
   - Tensor Nuclear Norm minimization with Discrete Cosine Transform (TNN-DCT, [Lu et al., 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_Low-Rank_Tensor_Completion_With_a_New_Tensor_Nuclear_Norm_Induced_CVPR_2019_paper.pdf)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/baselines/Large-Scale-TNN-DCT-imputer.ipynb)]
 
 <h2 align="center">:book: Reproducing Literature in Python</h2>
