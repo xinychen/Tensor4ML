@@ -21,8 +21,16 @@ In a hurry? Please check out our contents as follows.
 
 We conduct extensive experiments on some real-world data sets:
 
-  - [Large-scale PeMS traffic speed data set](https://doi.org/10.5281/zenodo.3939792) registers traffic speed time series from 11160 sensors over 4/8/12 weeks (for PeMS-4W/PeMS-8W/PeMS-12W) with 288 time points per day (i.e., 5-min frequency) in California, USA. You can download this data set and place it at the folder of `datasets`.
+  - Middle-scale data sets:
+    - [PeMS (P)](https://github.com/VeritasYin/STGCN_IJCAI-18) registers traffic speed time series from 228 sensors over 44 days with 288 time points per day (i.e., 5-min frequency). The tensor size is **228 x 288 x 44**.
+    - [Guanghzou (G)](https://doi.org/10.5281/zenodo.1205228) contains traffic speed time series from 214 road segments in Guangzhou, China over 61 days with 144 time points per day (i.e., 10-min frequency). The tensor size is **214 x 144 x 61**.
+    - [Electricity (E)](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014) records hourly electricity consumption transactions of 370 clients from 2011 to 2014. We use a subset of the last five weeks of 321 clients in our experiments. The tensor size is **321 x 24 x 35**.
+
+  - [Large-scale PeMS traffic speed data set](https://doi.org/10.5281/zenodo.3939792) registers traffic speed time series from 11160 sensors over 4/8/12 weeks (for PeMS-4W/PeMS-8W/PeMS-12W) with 288 time points per day (i.e., 5-min frequency) in California, USA. You can download this data set and place it at the folder of `../datasets`.
   
+    - Data size: 
+      - PeMS-4W: **11160 x 288 x 28** (contains about 90 million observations).
+      - PeMS-8W: **11160 x 288 x 56** (contains about 180 million observations).
     - Data path example: `../datasets/California-data-set/pems-4w.csv`.
     - Open data in Python with `Pandas`:
 
@@ -48,7 +56,7 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
   - without autoregressive norm [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-Tubal-imputer-case1.ipynb)]
   - with autoregressive norm [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-Tubal-imputer-case2.ipynb)]
 
-> We place notebooks at the folder of `../mats`. If you want to test our Python code, please the notebook at `../mats`. Note that each notebook is independent on others, you could run each individual notebook directly.
+> We write Python codes with Jupyter notebook and place the notebooks at the folder of `../mats`. If you want to test our Python code, please run the notebook at the folder of `../mats`. Note that each notebook is independent on others, you could run each individual notebook directly.
 
 The **baseline models** include:
 
@@ -64,6 +72,10 @@ The **baseline models** include:
   - High-accuracy Low-Rank Tensor Completion (HaLRTC, [Liu et al., 2013](https://doi.org/10.1109/TPAMI.2012.39)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/baselines/Large-Scale-HaLRTC-imputer.ipynb)]
   - Low-Rank Tensor Completion with Truncated Nuclear Norm minimization (LRTC-TNN, [Chen et al., 2020](https://doi.org/10.1016/j.trc.2020.102673)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/baselines/Large-Scale-LRTC-TNN-imputer.ipynb)]
   - Tensor Nuclear Norm minimization with Discrete Cosine Transform (TNN-DCT, [Lu et al., 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_Low-Rank_Tensor_Completion_With_a_New_Tensor_Nuclear_Norm_Induced_CVPR_2019_paper.pdf)) [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/baselines/Large-Scale-TNN-DCT-imputer.ipynb)]
+
+
+> We write Python codes with Jupyter notebook and place the notebooks at the folder of `../baselines`. If you want to test our Python code, please run the notebook at the folder of `../baselines`. The notebook which reproduces algorithm on large-scale data sets is emphasized by `Large-Scale-xx`.
+
 
 <h2 align="center">:book: Reproducing Literature in Python</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
