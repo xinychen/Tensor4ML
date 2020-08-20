@@ -48,6 +48,8 @@ data = pd.read_csv('../datasets/California-data-set/pems-4w.csv', header = None)
   - without autoregressive norm [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-Tubal-imputer-case1.ipynb)]
   - with autoregressive norm [[Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/mats/LATC-Tubal-imputer-case2.ipynb)]
 
+> We place notebooks at the folder of `../mats`. If you want to test our Python code, please the notebook at `../mats`. Note that each notebook is independent on others, you could run each individual notebook directly.
+
 The **baseline models** include:
 
 - on middle-scale data sets:
