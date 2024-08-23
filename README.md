@@ -6,9 +6,9 @@
 
 <h6 align="center">Made by Xinyu Chen • :globe_with_meridians: <a href="https://xinychen.github.io">https://xinychen.github.io</a></h6>
 
-**Tensor Decomposition for Machine Learning**
+**Tensor Decomposition for Machine Learning (Tensor4ML).** This project summarizes the development of tensor decomposition models and algorithms in the literature, providing comprehensive reviews and tutorials from matrix and tensor computations to tensor decomposition techniques across a wide range of scientific areas and applications. Since the decomposition of tensors is usually constructed as an optimization problem, this project also has a preliminary introduction to some popular methods for solving convex and nonconvex optimization. This work is expected to provide insight into both machine learning and data science communities, drawing strong connections with the key concepts relating to *tensor decomposition*. To make this work reproducible and sustainable, we provide sources such as datasets and Python implementation (mainly relying on Python's `numpy` library).
 
-This project summarizes the development of tensor decomposition models and algorithms in the literature, providing comprehensive reviews and tutorials from matrix and tensor computations to tensor decomposition techniques across a wide range of scientific areas and applications. Since the decomposition of tensors is usually constructed as an optimization problem, this project also has a preliminary introduction to some popular methods for solving convex and nonconvex optimization. This work is expected to provide insight into both machine learning and data science communities, drawing strong connections with the key concepts relating to *tensor decomposition*. To make this work reproducible and sustainable, we provide sources such as datasets and Python implementation (mainly relying on Python's `numpy` library).
+<br>
 
 In a hurry? Please check out our **contents** as follows.
 
@@ -28,7 +28,7 @@ In a hurry? Please check out our **contents** as follows.
   - Derivatives
 - [Foundation of Optimization](https://spatiotemporal-data.github.io/tensor4ml/opt_foundation/)
 
-
+<br>
 
 <h2 align="center">Our Research</h2>
 <p align="right"><a href="#tensor-learning-张量学习"><sup>▴ Back to top</sup></a></p>
