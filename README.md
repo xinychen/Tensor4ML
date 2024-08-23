@@ -1,4 +1,4 @@
-# Tensor Decomposition
+# Tensor4ML
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
@@ -6,14 +6,28 @@
 
 <h6 align="center">Made by Xinyu Chen • :globe_with_meridians: <a href="https://xinychen.github.io">https://xinychen.github.io</a></h6>
 
-Python codes for tensor factorization, tensor completion, and tensor regression techniques with the following real-world applications:
+**Tensor Decomposition for Machine Learning**
 
-- [**geotensor**](https://github.com/xinychen/geotensor) | Image inpainting
-- [**transdim**](https://github.com/xinychen/transdim) | Spatiotemporal traffic data imputation and prediction
-- Recommender systems
-- [**mats**](https://github.com/xinychen/tensor-learning/tree/master/mats) | Multivariate time series imputation and forecasting
+This project summarizes the development of tensor decomposition models and algorithms in the literature, providing comprehensive reviews and tutorials from matrix and tensor computations to tensor decomposition techniques across a wide range of scientific areas and applications. Since the decomposition of tensors is usually constructed as an optimization problem, this project also has a preliminary introduction to some popular methods for solving convex and nonconvex optimization. This work is expected to provide insight into both machine learning and data science communities, drawing strong connections with the key concepts relating to *tensor decomposition*. To make this work reproducible and sustainable, we provide sources such as datasets and Python implementation (mainly relying on Python's `numpy` library).
 
-In a hurry? Please check out our contents as follows.
+In a hurry? Please check out our **contents** as follows.
+
+- Introduction
+  - Tensor decomposition in the past 10-100 years
+  - Tensor decomposition in the past decade
+- What Are Tensors?
+  - Tensors in algebra & machine learning
+  - Tensors in data science
+- Foundation of Tensor Computations
+  - Norms
+  - Matrix trace
+  - Kronecker product
+  - Khatri-Rao product
+  - Modal product
+  - Outer product
+  - Derivatives
+- [Foundation of Optimization](https://spatiotemporal-data.github.io/tensor4ml/opt_foundation/)
+
 
 
 <h2 align="center">Our Research</h2>
