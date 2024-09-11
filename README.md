@@ -28,11 +28,12 @@ In a hurry? Please check out our **contents** as follows.
   - Derivatives
 - [Foundation of Optimization](https://spatiotemporal-data.github.io/tensor4ml/opt_foundation/)
   - Gradient descent methods
-  - Power iteration
   - Alternating minimization
   - Alternating direction method of multipliers
   - Greedy methods for <img style="display: inline;" src="https://latex.codecogs.com/svg.latex?&space;\ell_0"/>-norm minimization
   - Bayesian optimization
+  - Power iteration
+  - Procrustes problems
 
 <br>
 
