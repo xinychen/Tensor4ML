@@ -37,20 +37,6 @@ In a hurry? Please check out our **contents** as follows.
 
 <br>
 
-
-<h2 align="center">:book: Reproducing Literature in Python</h2>
-<p align="right"><a href="#Tensor4ML"><sup>▴ Back to top</sup></a></p>
-
-We reproduce some tensor learning experiments in the previous literature.
-
-| Year | Title | PDF | Authors' Code | Our Code | Status |
-|:---|:------:|:---:|:---:|:-----:|----:|
-|  2015 | Accelerated Online Low-Rank Tensor Learning for Multivariate Spatio-Temporal Streams | [ICML 2015](http://proceedings.mlr.press/v37/yua15.pdf) | [Matlab code](http://roseyu.com/Materials/accelerate_online_low_rank_tensor.zip) | [Python code](https://nbviewer.jupyter.org/github/xinychen/tensor-learning/blob/master/baselines/Online-LRTL.ipynb) | Under development |
-|  2016 | Scalable and Sound Low-Rank Tensor Learning | [AISTATS 2016](http://proceedings.mlr.press/v51/cheng16.pdf) | - | [xx](xx) | Under development |
-
-<br>
-
-
 <h2 align="center">Quick Run</h2>
 <p align="right"><a href="#Tensor4ML"><sup>▴ Back to top</sup></a></p>
 
@@ -64,7 +50,7 @@ We reproduce some tensor learning experiments in the previous literature.
 <h2 align="center">Citing</h2>
 <p align="right"><a href="#Tensor4ML"><sup>▴ Back to top</sup></a></p>
 
-This repository is from the following paper, please cite our paper if it helps your research.
+This repository is from the following paper.
 
 <br>
 
